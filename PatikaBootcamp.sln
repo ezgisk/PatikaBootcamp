@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7-Patikafy", "Week7-Pat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7-Patikaflix", "Week7-Patikaflix\Week7-Patikaflix.csproj", "{BB5F86E4-554C-4015-870F-E9137510BED0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7-LinqJoin", "Week7-LinqJoin\Week7-LinqJoin.csproj", "{0CB9E0DC-269F-455F-84FC-7E40ED228CBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7-LinqJoin", "Week7-LinqJoin\Week7-LinqJoin.csproj", "{0CB9E0DC-269F-455F-84FC-7E40ED228CBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7-GroupJoin", "Week7-GroupJoin\Week7-GroupJoin.csproj", "{307B07D0-A5C6-4A14-B8BF-FB84F8E943DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7-GroupJoin", "Week7-GroupJoin\Week7-GroupJoin.csproj", "{307B07D0-A5C6-4A14-B8BF-FB84F8E943DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7-SqlConnectıon", "Week7-SqlConnectıon\Week7-SqlConnectıon.csproj", "{7BA90DCD-68C9-4C0A-B662-6FFA273F065C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{307B07D0-A5C6-4A14-B8BF-FB84F8E943DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{307B07D0-A5C6-4A14-B8BF-FB84F8E943DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{307B07D0-A5C6-4A14-B8BF-FB84F8E943DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA90DCD-68C9-4C0A-B662-6FFA273F065C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA90DCD-68C9-4C0A-B662-6FFA273F065C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA90DCD-68C9-4C0A-B662-6FFA273F065C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA90DCD-68C9-4C0A-B662-6FFA273F065C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
