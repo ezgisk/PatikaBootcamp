@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7-LinqJoin", "Week7-Lin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7-GroupJoin", "Week7-GroupJoin\Week7-GroupJoin.csproj", "{307B07D0-A5C6-4A14-B8BF-FB84F8E943DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7-SqlConnectıon", "Week7-SqlConnectıon\Week7-SqlConnectıon.csproj", "{7BA90DCD-68C9-4C0A-B662-6FFA273F065C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7-SqlConnectıon", "Week7-SqlConnectıon\Week7-SqlConnectıon.csproj", "{7BA90DCD-68C9-4C0A-B662-6FFA273F065C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week8-EmptyMvc", "Week8-EmptyMvc\Week8-EmptyMvc.csproj", "{2BBFCF8A-2721-4A65-A094-C135E0BC156D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7BA90DCD-68C9-4C0A-B662-6FFA273F065C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BA90DCD-68C9-4C0A-B662-6FFA273F065C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BA90DCD-68C9-4C0A-B662-6FFA273F065C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BBFCF8A-2721-4A65-A094-C135E0BC156D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BBFCF8A-2721-4A65-A094-C135E0BC156D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BBFCF8A-2721-4A65-A094-C135E0BC156D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BBFCF8A-2721-4A65-A094-C135E0BC156D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
