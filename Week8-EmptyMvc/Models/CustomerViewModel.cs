@@ -3,6 +3,6 @@
     public class CustomerViewModel
     {
         public Customer Customer { get; set; }
-        public string WelcomeMessage {  get; set; }
+        public List<Order> Orders {  get; set; }
     }
 }
