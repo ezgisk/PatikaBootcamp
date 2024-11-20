@@ -34,14 +34,14 @@ namespace Week8_EmptyMvc.Controllers
             };
 
 
-            var CustomerViewModel = new CustomerViewModel
+            var customerViewModel = new CustomerViewModel
             {
                 Customer = customer,
                 Orders = orders
 
             };
 
-            return View(CustomerViewModel);
+            return View(customerViewModel);
         }
     }
 }
