@@ -3,7 +3,7 @@ using Week8_EmptyMvc.Models;
 
 namespace Week8_EmptyMvc.Controllers
 {
-    public class CustomerOrderController : Controller
+    public class CustomerOrdersController : Controller
     {
         public IActionResult Index()
         {
@@ -45,3 +45,4 @@ namespace Week8_EmptyMvc.Controllers
         }
     }
 }
+
