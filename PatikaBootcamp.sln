@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7-GroupJoin", "Week7-Gr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7-SqlConnectıon", "Week7-SqlConnectıon\Week7-SqlConnectıon.csproj", "{7BA90DCD-68C9-4C0A-B662-6FFA273F065C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week8-EmptyMvc", "Week8-EmptyMvc\Week8-EmptyMvc.csproj", "{2BBFCF8A-2721-4A65-A094-C135E0BC156D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week8-EmptyMvc", "Week8-EmptyMvc\Week8-EmptyMvc.csproj", "{2BBFCF8A-2721-4A65-A094-C135E0BC156D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMvcProject", "FirstMvcProject\FirstMvcProject.csproj", "{D4F59D79-F6E5-48AB-A715-A594C235A733}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstMvcProject", "FirstMvcProject\FirstMvcProject.csproj", "{D4F59D79-F6E5-48AB-A715-A594C235A733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyMusicians", "CrazyMusicians\CrazyMusicians.csproj", "{562F201D-C306-43BC-8CAB-838AE03CD7F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{D4F59D79-F6E5-48AB-A715-A594C235A733}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4F59D79-F6E5-48AB-A715-A594C235A733}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4F59D79-F6E5-48AB-A715-A594C235A733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{562F201D-C306-43BC-8CAB-838AE03CD7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562F201D-C306-43BC-8CAB-838AE03CD7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562F201D-C306-43BC-8CAB-838AE03CD7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562F201D-C306-43BC-8CAB-838AE03CD7F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
