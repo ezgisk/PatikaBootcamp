@@ -1,0 +1,6 @@
+@Relational_HostAddress = http://localhost:5112
+
+GET {{Relational_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
