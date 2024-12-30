@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Relational", "Relational\Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Survivor", "Survivor\Survivor.csproj", "{417BA7A4-96B5-4901-99E0-CB6C9BCA6F5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependenyInjection", "DependenyInjection\DependenyInjection.csproj", "{F48BD552-DE69-4EBD-A083-B7FE45887376}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{417BA7A4-96B5-4901-99E0-CB6C9BCA6F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{417BA7A4-96B5-4901-99E0-CB6C9BCA6F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{417BA7A4-96B5-4901-99E0-CB6C9BCA6F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F48BD552-DE69-4EBD-A083-B7FE45887376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48BD552-DE69-4EBD-A083-B7FE45887376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48BD552-DE69-4EBD-A083-B7FE45887376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48BD552-DE69-4EBD-A083-B7FE45887376}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
