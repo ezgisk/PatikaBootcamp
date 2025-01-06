@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Relational", "Relational\Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Survivor", "Survivor\Survivor.csproj", "{417BA7A4-96B5-4901-99E0-CB6C9BCA6F5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependenyInjection", "DependenyInjection\DependenyInjection.csproj", "{F48BD552-DE69-4EBD-A083-B7FE45887376}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependenyInjection", "DependenyInjection\DependenyInjection.csproj", "{F48BD552-DE69-4EBD-A083-B7FE45887376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityApi1", "IdentityApi1\IdentityApi1.csproj", "{02B703DA-F184-4FC9-A340-BFBB4A21EBBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{F48BD552-DE69-4EBD-A083-B7FE45887376}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F48BD552-DE69-4EBD-A083-B7FE45887376}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F48BD552-DE69-4EBD-A083-B7FE45887376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B703DA-F184-4FC9-A340-BFBB4A21EBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B703DA-F184-4FC9-A340-BFBB4A21EBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B703DA-F184-4FC9-A340-BFBB4A21EBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B703DA-F184-4FC9-A340-BFBB4A21EBBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
