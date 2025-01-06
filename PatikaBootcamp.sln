@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependenyInjection", "Depen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityApi1", "IdentityApi1\IdentityApi1.csproj", "{02B703DA-F184-4FC9-A340-BFBB4A21EBBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT", "JWT\JWT.csproj", "{99F4E5D0-4930-4D3E-892C-ECCF637C77D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{02B703DA-F184-4FC9-A340-BFBB4A21EBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02B703DA-F184-4FC9-A340-BFBB4A21EBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02B703DA-F184-4FC9-A340-BFBB4A21EBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F4E5D0-4930-4D3E-892C-ECCF637C77D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F4E5D0-4930-4D3E-892C-ECCF637C77D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F4E5D0-4930-4D3E-892C-ECCF637C77D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F4E5D0-4930-4D3E-892C-ECCF637C77D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
